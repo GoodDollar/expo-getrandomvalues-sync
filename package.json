@@ -1,0 +1,12 @@
+{
+  "name": "expo-getrandomvalues-sync",
+  "version": "1.0.0",
+  "description": "pollyfill window.crypto.getRandomValues",
+  "main": "index.js",
+  "repository": "https://github.com/GoodDollar/expo-getrandomvalues-sync",
+  "author": "sirpy",
+  "license": "MIT",
+  "peerDependencies": {
+    "expo-random": "*"
+  }
+}
