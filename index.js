@@ -5,7 +5,7 @@ class RandomValuesSync {
   ready = undefined;
   curIndex = 0;
   constructor() {
-    this.ready = init().catch(console.log);
+    this.ready = this.init().catch(console.log);
   }
 
   async setCacheSize(cacheSize = 1024) {

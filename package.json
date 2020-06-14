@@ -1,6 +1,6 @@
 {
-  "name": "expo-getrandomvalues-sync",
-  "version": "1.0.0",
+  "name": "@gooddollar/expo-getrandomvalues-sync",
+  "version": "1.0.1",
   "description": "pollyfill window.crypto.getRandomValues",
   "main": "index.js",
   "repository": "https://github.com/GoodDollar/expo-getrandomvalues-sync",
